@@ -1,4 +1,4 @@
-This repository contains my bachelor thesis and the py code and some csv files for my thesis.  Please note 
+This repository contains my bachelor thesis (Examination_of_Calendar_Effect_and_Sentiment_Analysis_on_Bitcoin2.pdf) and the py code and some csv files for my thesis.  Please note 
 1.	the tweet.db file is too large (more than 1GB) to be uploaded.  
 2.	Not all the csv data files used in my bachelor thesis are uploaded. 
 3.	Machine learning is not included in my thesis.  They are undergoing.
