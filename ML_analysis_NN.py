@@ -9,7 +9,6 @@ followed by neural network analysis, and RMSE calculation.
 """
 Created on Mon Oct  9 14:41:16 2023
 
-@author: User
 """
 
 # In[] Preprocessing
