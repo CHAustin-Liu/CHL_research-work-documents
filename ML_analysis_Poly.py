@@ -10,7 +10,6 @@ followed by polynomial analysis, RMSE calculation, and model drawing.
 """
 Created on Mon Oct  9 14:41:16 2023
 
-@author: User
 """
 # In[] Preprocessing
 import HappyML.preprocessor as pp
