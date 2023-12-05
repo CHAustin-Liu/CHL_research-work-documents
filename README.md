@@ -1,10 +1,10 @@
 ## DESCRIPTION
 This repository contains my research works till the present moment (11/26/2023).  They are:
-1. Examination_of_Calendar_Effect_and_Sentiment_Analysis_on_Bitcoin2 (bachelor thesis for Pennsylvania State University Schreyer Honors College , https://honors.libraries.psu.edu/catalog/8079cjl5932).
+1. Examination_of_Calendar_Effect_and_Sentiment_Analysis_on_Bitcoin2 (bachelor thesis for Pennsylvania State University Schreyer Honors College, https://honors.libraries.psu.edu/catalog/8079cjl5932).
 2. Is Sentiment on Twitter Effective on Bitcoin Price Prediction? (paper presented on 2022 International Conference of the Taiwan Finance Association, https://imf.nycu.edu.tw/uploads/asset/data/62aad8ba1d41c820f30174cc/2022_TFA_agenda___program_0616.pdf)
 3. The Application of ESG Factor and Machine Learning in Alpha Strategy for Stock Selection. (Working paper for submitting to The Journal of Portfolio Management)
 
-The py code and some csv files for my bahelor thesis are also included.  Please note 
+The py code and some csv files for my bachelor thesis are also included.  Please note 
 1.	the tweet.db file is too large (more than 1GB) to be uploaded.  
 2.	Not all the csv data files used in my bachelor thesis are uploaded. 
 3.	Machine learning is not included in my thesis.  They are undergoing.
